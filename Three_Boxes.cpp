@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int t;
-    cin>>t;
+    t = 1;
     if(t>=1 && t<=100){
         while(t--){
             int a,b,c,d;
