@@ -1,0 +1,36 @@
+a = [ z a a ]
+b = [ a b z ]
+l = 1
+r = 5
+l = 2
+r = 5
+l = 3
+r = 5
+l = 3
+r = 4
+l = 3
+r = 3
+l = 4
+r = 3
+ans = [ a z a b z a ]
+a = [ c c c c ]
+b = [ c c c c ]
+l = 0
+r = 6
+l = 1
+r = 6
+l = 1
+r = 5
+l = 2
+r = 5
+l = 2
+r = 4
+l = 3
+r = 4
+l = 3
+r = 3
+l = 4
+r = 3
+ans = [ c c c c c c c c ]
+
+Time taken: 0.002 MS

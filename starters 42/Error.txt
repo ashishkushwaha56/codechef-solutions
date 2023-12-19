@@ -1,0 +1,4 @@
+n = 15
+k = 15
+
+Time taken: 0 MS

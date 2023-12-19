@@ -1,0 +1,10 @@
+s = oo
+s = o
+s = 
+s = aab
+s = aa
+s = a
+s = 
+s = eeve
+
+Time taken: 0 MS
